@@ -1,0 +1,9 @@
+.secret/
+.env/
+env/
+.handler-saves/
+figma_files/
+testing/
+episodes/
+.DS_Store
+chromedriver_mac_arm64/
